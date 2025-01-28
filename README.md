@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan De Zoysa</h1>
-<h3 align="center">A passionate Frontend Developer from Sri Lanka</h3>
+<h3 align="center">A passionate FullStack Developer from Sri Lanka</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ivan-6332&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
