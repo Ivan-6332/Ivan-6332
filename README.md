@@ -9,7 +9,7 @@
 
 ### 🌟 About Me
 - 📫 **Reach me at:** [ivanakalanka@gmail.com](mailto:ivanakalanka@gmail.com)
-- ⚡ **Fun fact:** I'm a chill guy!
+- ⚡ Just a chill guy!
 
 ---
 
